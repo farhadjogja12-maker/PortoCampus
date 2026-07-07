@@ -183,7 +183,7 @@ border-radius:20px;">
 
             <br>
 
-            Version 5.1
+            Version 5.2
 
         </div>
 
